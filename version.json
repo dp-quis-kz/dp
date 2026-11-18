@@ -1,4 +1,22 @@
 {
   "online": false,
-  "message": "Технические работы на сервере"
+  "message": "Технические работы на сервере",
+  "minVersion": "1.1.4",
+  "latestVersion": "1.1.4",
+  "updateUrlAndroid": "market://details?id=kz.quis.dp.mobile.ai",
+  "updateUrlAndroidSecond": "https://quis.kz/version/dp_v1.1.4.apk",
+  "updateUrlIos": "itms-apps://itunes.apple.com/app/",
+  "android": {
+	"minVersion": "1.1.4",
+	"latestVersion": "1.1.4",
+	"updateUrlFirst": "market://details?id=kz.quis.dp.mobile.ai",
+	"updateUrlSecond": "https://quis.kz/version/dp_v1.1.4.apk"
+  },
+  "ios": {
+	"minVersion": "1.1.4",
+	"latestVersion": "1.1.4",
+	"updateUrlFirst": "itms-apps://itunes.apple.com/app/id6781656859",
+	"updateUrlSecond": "https://apps.apple.com/app/id6781656859"
+  }
+}
 }
